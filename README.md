@@ -6,6 +6,8 @@ This is the core of Motorcycle.js creating your applicaton loop tied together
 with most.js. It separates your application logic into a pure function, and
 your side-effectful code into drivers.
 
+**DEPRECATED!** Please use [the newer Motorcycle.js](https://github.com/motorcyclejs/motorcyclejs)
+
 ## Let me have it!
 ```sh
 npm install --save @motorcycle/run
